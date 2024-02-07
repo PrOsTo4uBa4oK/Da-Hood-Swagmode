@@ -46,4 +46,3 @@ Application doesn't work?
 
 ### 🔻Other
 * Noclip
-*Inf jump
