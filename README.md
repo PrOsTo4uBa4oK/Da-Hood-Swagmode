@@ -13,7 +13,7 @@ Application doesn't work?
 
 𝙵 𝚄 𝙽 𝙲 𝚃 𝙸 𝙾 𝙽 𝚂 :
 
-![2](https://github.com/PrOsTo4uBa4oK/Da-Hood-GUI/assets/90314707/9439ca0d-7613-4ad4-a872-1d8373cc6fdd)
+![2](https://github.com/PrOsTo4uBa4oK/Da-Hood-GUI/assets/90314707/27681ad9-8a4b-4e40-9b0b-44e345306155)
 
 ### 🔻Aim
 
