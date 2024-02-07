@@ -24,13 +24,8 @@ Application doesn't work?
 * Target select
 * Target lock
 * Crosshair
-* Show snaplines
-* Visibility check
-* Aim at bones
-* Skip invisible
-* Flickshots
 
-### 🔻ESP
+* ### 🔻ESP
 
 * See players through walls
 * Battle mode
